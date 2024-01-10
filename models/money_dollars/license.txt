@@ -1,0 +1,11 @@
+Model Information:
+* title:	Money Dollars
+* source:	https://sketchfab.com/3d-models/money-dollars-c9893f6e86dd4db69c3cb0b6c2d123db
+* author:	Artur Reshetniak (https://sketchfab.com/arovdev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Money Dollars" (https://sketchfab.com/3d-models/money-dollars-c9893f6e86dd4db69c3cb0b6c2d123db) by Artur Reshetniak (https://sketchfab.com/arovdev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

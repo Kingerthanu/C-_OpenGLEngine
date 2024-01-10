@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sniffer with Excalibur - GLTF
+* source:	https://sketchfab.com/3d-models/sniffer-with-excalibur-gltf-48d2608c6ab74d3896abad9ca3c1badf
+* author:	ArtsByKev Productions (https://sketchfab.com/ArtsByKev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sniffer with Excalibur - GLTF" (https://sketchfab.com/3d-models/sniffer-with-excalibur-gltf-48d2608c6ab74d3896abad9ca3c1badf) by ArtsByKev Productions (https://sketchfab.com/ArtsByKev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
