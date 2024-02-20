@@ -8,7 +8,7 @@ Code is still rusty around the edges but gave a huge insight which I'm bringing 
 
 ![2024-01-1002-28-18-ezgif com-optimize](https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/cd0f9cdb-54af-4097-8cb2-a7661989ce38)
 
-Blender Snapshots:
+**_Blender Snapshots:_**
 
 **Model of Enemy Class Type**
 <img width="1587" alt="image" src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/c449e420-4f34-463c-a21c-8a4e75f06e3a">
