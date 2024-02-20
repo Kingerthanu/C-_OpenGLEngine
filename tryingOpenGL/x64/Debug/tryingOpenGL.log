@@ -1,0 +1,38 @@
+﻿  Main.cpp
+  entity.cpp
+  mesh.cpp
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\mesh.cpp(59,39): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\mesh.cpp(125,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  model.cpp
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(48,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(64,55): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(64,55): warning C4305:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(64,55): warning C4305:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(64,55): warning C4305:             _Ty=float
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(64,55): warning C4305:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(64,50): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(64,50): warning C4305:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(64,50): warning C4305:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(64,50): warning C4305:             _Ty=float
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(64,50): warning C4305:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(65,55): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(65,55): warning C4305:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(65,55): warning C4305:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(65,55): warning C4305:             _Ty=float
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(65,55): warning C4305:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(65,50): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(65,50): warning C4305:         with
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(65,50): warning C4305:         [
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(65,50): warning C4305:             _Ty=float
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(65,50): warning C4305:         ]
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(97,50): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(381,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(573,92): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\model.cpp(581,94): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+  playerCamera.cpp
+  projectile.cpp
+  texture.cpp
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\texture.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\tryingOpenGL\projectile.cpp(61): warning C4715: 'Projectile::checkCollisions': not all control paths return a value
+  tryingOpenGL.vcxproj -> C:\Users\bensp\OneDrive\Desktop\Programming File\The Code Box\CPP Docs\Visual Studio Stuff\TestLab\tryingOpenGL\x64\Debug\tryingOpenGL.exe
