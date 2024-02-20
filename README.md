@@ -6,10 +6,12 @@ Bullets are using bounding box detection and have ray caste hit scan implemented
 Each thing is treated in worldspace as well with their transformation matrixes shifting them about amongst the world.
 Code is still rusty around the edges but gave a huge insight which I'm bringing to new projects of the likeness and gives me comfort in GUI applications in C++ now. Still in heavy development as it works as my bed for learning more about OpenGL like animations and particle effects. (this is more a file dump than a build)
 
+![2024-01-1002-28-18-ezgif com-optimize](https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/cd0f9cdb-54af-4097-8cb2-a7661989ce38)
+
 <img width="995" alt="image" src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/2bb74706-a816-4289-b9d0-3d13efe007b7">
 
 ![trimmedOpenGL-ezgif com-optimize (2)](https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/ed7e62f3-21cd-4d54-9e02-20786b9ad700)
-![2024-01-1002-28-18-ezgif com-optimize](https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/cd0f9cdb-54af-4097-8cb2-a7661989ce38)
+
 
 **With Flashlight .frag func**
 <img width="997" alt="image" src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/4a772f84-6575-4875-8d24-635806f1c922">
