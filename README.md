@@ -14,4 +14,5 @@ Blender Snapshots:
 <img width="1587" alt="image" src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/c449e420-4f34-463c-a21c-8a4e75f06e3a">
 
 **Model of Bullet with Placeholder Texture**
-<img width="1571" alt="image" src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/0ae6780b-0f70-4142-a44c-3bbcd8238727">
+<img width="1571" alt="image" src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/3b43afec-1b3a-48fb-9ecd-7c5f2c3e8418">
+
