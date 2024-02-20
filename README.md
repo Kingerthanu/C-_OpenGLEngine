@@ -10,6 +10,7 @@ Code is still rusty around the edges but gave a huge insight which I'm bringing 
 
 <img width="995" alt="image" src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/2bb74706-a816-4289-b9d0-3d13efe007b7">
 
+
 ![trimmedOpenGL-ezgif com-optimize (2)](https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/ed7e62f3-21cd-4d54-9e02-20786b9ad700)
 
 
