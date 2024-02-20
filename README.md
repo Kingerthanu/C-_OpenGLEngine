@@ -14,6 +14,7 @@ Code is still rusty around the edges but gave a huge insight which I'm bringing 
 
 
 **With Flashlight .frag func**
+![fallingAgainOpenGL-ezgif com-optimize](https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/4a9973a9-7576-42c6-942f-4e8d7840e54c)
 <img width="997" alt="image" src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/4a772f84-6575-4875-8d24-635806f1c922">
 ![fallingOpenGLCat-ezgif com-optimize](https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/f4c58a71-e407-4122-9213-aa7e7c5687a8)
 
