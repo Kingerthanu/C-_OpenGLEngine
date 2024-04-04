@@ -2,7 +2,7 @@
 
 Current main project which uses OpenGL to create a 3D glm vector space. Has been a blast creating this as I've learned a lot about GPU-coding as well as how to properly maintain a optimized buffer of data and allocate and deallocate it according to my circumstances. Courteous Object-Orientated design has been fun and created majority of algorithms and calculations myself instead of using libraries for optimization as well as really understanding how this code works. I've learned a lot about blender and vertex data as well as how bounding boxes can be calculated and used in general cost-effective detection of maybe minor objects. 
 
-<img src="https://media.giphy.com/media/i29DtU2PMkzsI/giphy.gif" alt="Your GIF Description" width="180" height="158">
+<img src="https://media.giphy.com/media/i29DtU2PMkzsI/giphy.gif" alt="Your GIF Description" width="140" height="118">
 
 
 
