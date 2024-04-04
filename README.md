@@ -9,12 +9,10 @@ Current main project which uses OpenGL to create a 3D glm vector space. Has been
 My current collision detection is created through a <a href="https://www.peroxide.dk/papers/collision/collision.pdf">document online</a> which outlines a ellipsoid based detection system of polygons. This means the user is treated as a bubble in its own ellipsoid normalized space and rolls around the space until collisons are detected in which he will roll around or up if theres a incline.
 Bullets are using bounding box detection and have ray caste hit scan implemented as well but is inactive while still showing the tracer. The entities also use bounding box detection for bullet collision.
 
-<img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/83edb814-76a4-4818-804f-ba46b2501c2d" alt="Cornstarch <3" width="95" height="99">
-
 I personally developed a runtime algorithm in which creates randomly placed walls on my given floor plane by creating their own normals using winding order of our given vertices of a given wall to make a dual-sided, 4 vertex wall to help cutdown on some runtime. The walls work on random generation for their width and orientation/position but keep a shared height.
 Each thing is treated in worldspace as well with their transformation matrixes shifting them about amongst the world.
 
-<img src="https://media.giphy.com/media/oNFo3hdXVs8xGH3ioa/giphy.gif" alt="Slippery Wall" width="140" height="118">
+<img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/83edb814-76a4-4818-804f-ba46b2501c2d" alt="Cornstarch <3" width="95" height="99">
 
 
 Code is still rusty around the edges but gave a huge insight which I'm bringing to new projects of the likeness and gives me comfort in GUI applications in C++ now. Still in heavy development as it works as my bed for learning more about OpenGL like animations and particle effects. (this is more a file dump than a .exe build)
