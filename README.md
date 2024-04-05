@@ -26,6 +26,10 @@ Code is still rusty around the edges but gave a huge insight which I'm bringing 
 
 **The Breakdown:**
 
+
+
+<img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/7890f95a-6284-44a8-8bf5-26ddc9ee1cc3" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/7890f95a-6284-44a8-8bf5-26ddc9ee1cc3" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/7890f95a-6284-44a8-8bf5-26ddc9ee1cc3" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/7890f95a-6284-44a8-8bf5-26ddc9ee1cc3" alt="Cornstarch <3" width="55" height="49">
+
 ----------------------------------------------------------------------------
 
 <img src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/cd0f9cdb-54af-4097-8cb2-a7661989ce38" alt="Code Running Displaying Scene, Collision, And Projectiles As Well As Entities" width="750" height="750">
