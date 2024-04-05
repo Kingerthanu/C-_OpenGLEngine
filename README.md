@@ -26,11 +26,13 @@ Code is still rusty around the edges but gave a huge insight which I'm bringing 
 
 **The Breakdown:**
 
-This Program Works With A GLSL Window To Call OpenGL For Drawing A 3D Vector-Based Environment With Imported Models As Well As Runtime Generated Geometry. This World-Space Will Be Populated By Entities And The User Which Is 
-Supplied A 1-In-The-Chamber Projectile-Based Bullet To Hit Enemies. The Entities Will Have Their Own Velocities In Which Will Increase As They "Charge" Toward You, Allowing You The Ability To Dodge Their Charge If Possible As They Can Overshoot, Giving You Opporunity To Hit Them.
+This Program Works With A GLSL Window To Call OpenGL For Drawing A 3D Vector-Based Environment With Imported Models As Well As Runtime Generated Geometry. This World-Space Will Be Populated By Enemy Entities And The User Which Is Attracting The Enemy Cat Wizards And Which Is Also 
+Supplied A 1-In-The-Chamber Projectile-Based Bullet To Hit The Enemies With. The Entities Will Have Their Own Motion Velocities In Which Will Increase As They "Charge" Toward You, Allowing You The Ability To Dodge Their Charge If Possible As They Can Overshoot, Giving You Opporunity To Hit Them While Also Giving Them The Opportunity To Hit You.
 
 In The Programs Current State, We Have Only 3 Seperate (Albeit Connected) Hard-Baked World Geometry Made By Myself In Blender. This Is Our Spawn/Safe Space In Which Will Store The Shop And Will Heal The User.
 We Also Have The SkyBox Which Is A 8-Vertex Based Mesh Holding Our PlayerSpace. Finally We Have The Frontline Which Is The Space Below The Spawn Which Is A Simple Square Plane. On Runtime, We Will Call A Function In Which Will Generate 4-Vertex Walls On The Frontline Space Randomly. 
+
+We Also Have The Enemy Entities Which Currently Have Pathing To The Users Coordinates While Also Having Their Own Health And Model/Meshes.
 
 In Our Current State, The User Is Represented In The World As A "Circle Of Influence" In Which They Move In The World As. We Then Use This Ball To Check Triangle Collisions In Our Ellipsoid Representation of Our World-Space.
 This Way Of Representing Our User Allows Runtime Benefits On Collision Detection As Well More Intuitive Design As It Allows Our User To "Roll" Along Surfaces Giving Us More Dynamic Movement Opportunities During A Single Collision Check Compared To A More Binary Algorithm For Collision Checks. This Design Principle Also Allows Dynamic Collisions On Oddly Shapen Geometry As We Check Direct Model Meshes Instead Of More Hard-Baked Bounding Areas. Our User Can Also Jump Which Is Cool As It Allows Cool Stunts of Jumping Over Walls Or Enemies For Cool TrickShots.
