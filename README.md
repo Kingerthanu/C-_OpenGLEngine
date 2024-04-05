@@ -21,6 +21,7 @@ Code is still rusty around the edges but gave a huge insight which I'm bringing 
 
 <img src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/cd0f9cdb-54af-4097-8cb2-a7661989ce38" alt="Code Running Displaying Scene, Collision, And Projectiles As Well As Entities" width="750" height="750">
 
+----------------------------------------------------------------------------
 
 <img width="1195" alt="image" src="https://github.com/Kingerthanu/CPP_OpenGLEngine/assets/76754592/2bb74706-a816-4289-b9d0-3d13efe007b7">
 
